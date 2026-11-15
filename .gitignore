@@ -53,3 +53,8 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# pycache folder
+__pycache__/
+*.pyc
+*.pyo
